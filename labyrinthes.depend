@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1795580916 source:c:\users\origina.l\documents\labyrinthe\ parse_labyrinthe.c
+	"labyrinthe.h"
+	<stdio.h>
+
+1795581100 c:\users\origina.l\documents\labyrinthe\labyrinthe.h
+
+1795581109 source:c:\users\origina.l\documents\labyrinthe\resoudre.c
+	"labyrinthe.h"
+
+1795592264 source:c:\users\origina.l\documents\labyrinthe\main.c
+	<stdio.h>
+	"labyrinthe.h"
+
+1795580916 source:c:\users\origina.l\documents\labyrinthe\parse_labyrinthe.c
+	"labyrinthe.h"
+	<stdio.h>
+
